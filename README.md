@@ -2,7 +2,7 @@
 
 一个优雅、轻量级的心情追踪仪表板。支持 Jekyll、Hugo、静态 HTML 等环境，帮助你可视化一年内的心情和生活习惯的关联。
 
-![Mood Tracker Preview](docs/preview.png)
+![Mood Tracker Preview](../image/2026-04-13 120755.png)
 
 > 不是为了激励，只是为了看清自己。
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 快速开始
+## 🚀 [快速开始](QUICK_START.md)**
 
 ### 1️⃣ 对于 Jekyll 项目
 
@@ -261,13 +261,6 @@ bundle exec jekyll serve
 
 # 访问 http://localhost:4000
 ```
-
----
-
-## 📄 许可证
-
-MIT License - 自由使用、修改、分发
-
 ---
 
 ## 🤝 贡献
@@ -282,12 +275,4 @@ MIT License - 自由使用、修改、分发
 
 ---
 
-## 📮 联系方式
 
-- **GitHub Issues**: [report a bug]
-- **讨论**: [聊天空间]
-- 如有问题，欢迎提问
-
----
-
-**🚀 准备好了？[快速开始](QUICK_START.md)**
